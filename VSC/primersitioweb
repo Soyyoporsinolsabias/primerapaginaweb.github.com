@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <title>Inglaterra - Fauna y Flora</title>
+            <link rel="stylesheet" type="text/css" href="CSS1/CTSS.css">
+            <link rel="Shortcut icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/1738/1738146.png">
+        </head>
+<body>
+        <header>
+            <img src="https://img.freepik.com/fotos-premium/bandera-inglesa-inglaterra-pintada-pared_469558-46929.jpg?w=996" alt="Bandera de inglanterra pintada en una pared" style="opacity: 0.5;">
+            <h1 id="I">Flora y Fauna de Inglaterra</h1>
+            <nav>
+                <ul>
+                <li><a href="#I">Inicio</a> </li>
+                <li><a href="costr.html">Contactanos</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+       <section class="texto">
+                <article>
+                    <h2 id="g">Inglaterra</h2>
+                    <p>Inglaterra es uno de los cuatro países que conforman el Reino Unido. Tiene una superficie de 130.395 km2 y está ubicada en la parte sur y centro de la isla de Gran Bretaña, que comparte con Escocia y Gales. Es el país más poblado de Reino Unido, con casi 56 millones de habitantes, y su capital es la ciudad de Londres. Limita sl norte con Escocia, al oeste con Gales, al este con Países Bajos y Dinamarca y al sur con Francia, a través del canal de la Mancha.</p><br>
+                    <p>Por ser parte del Reino Unido, el sistema de gobierno de Inglaterra es la monarquía constitucional. Su modelo parlamentario adoptó el sistema Westminster (que toma como forma de gobierno democrático el modelo del Reino Unido) y está formado por el poder ejecutivo y el poder legislativo, representado por dos cámaras: la cámara de los comunes y la cámara de los lores. La cámara de los comunes está formada por legisladores elegidos por el voto popular, mientras que la de los lores está formada por miembros no electos de la nobleza y la Iglesia.</p><br>
+                    <p>No existe un gobierno propio de Inglaterra desde el año 1707 ya que este país es gobernado por el parlamento del Reino Unido.</p><br>
+                    <p>La vegetación de Inglaterra en muy diversa, esto se debe a que Inglaterra posee un clima templado oceánico, lo cual convierte a este país en un espacio propicio para dar vida a una gran diversidad de flora y fauna terrestre y acuática. Este abanico de flora y fauna hace de Inglaterra un sitio único en el mundo.</p>
+                </article>
+                <article>
+                    <h2 id="p">Flora</h2>
+                    <p>Algunas de las especies características de Inglaterra en lo que se refiere a su flora son <em>roble, el olmo y el haya,</em> se dice que antes en las Isla británicas había una gran cantidad de bosques en donde predominaban estas especies, pero en el año 2000 tras un alarmante estudio se estableció que solo quedaba el 10% del patrimonio de flora, según se concluyo las causas es la tala descontrolada y el crecimiento de las ciudades.</p>
+                    <img class="dei im" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Major_Oak_%289494%29.jpg/1024px-Major_Oak_%289494%29.jpg" alt="Major Oak (Roble Mayor)">
+                    <p class="izp">El Major Oak (en español, roble mayor) es un roble centenario de la especie Quercus robur que se encuentra en el bosque de Sherwood, cerca de la localidad de Edwinstowe, en Nottinghamshire, Inglaterra. De acuerdo con las leyendas locales, este árbol servía como refugio de Robin Hood y su cuadrilla.</p>
+
+                    <img class="izi im" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ulmus_minor_%27Plotii%27_Laxton_Northamptonshire.jpg/800px-Ulmus_minor_%27Plotii%27_Laxton_Northamptonshire.jpg" alt="olmo endemico">
+                    <p class="dep">Ulmus minor var. plotii (Mill.) Richens, conocida en inglés como Plot's Elm ("Olmo de Plot") o Lock Elm ("Olmo de Lock") es una variedad de olmo, árbol de la familia de las Ulmáceas que se encuentra sólo en Inglaterra, donde se le encuentra principalmente en las Midlands, especialmente alrededor del río Witham en Lincolnshire.</p>
+
+                    <img class="dei im" src="https://www.monumentaltrees.com/db/27/600/27458.jpg" alt="haya común">
+                    <p class="izp">Fagus sylvatica, el haya común, es un árbol caducifolio de la familia de las fagáceas. A los bosques de hayas se les llama hayedos o hayales.</p>
+
+                </article>
+                <article>
+                    <h2 id="a">Fauna</h2>
+                    <p>Como resultado del cambio climático y del  rápido proceso de urbanización que ha sufrido Inglaterra desde la Revolución Industrial, el ecosistema de la fauna silvestre ha sufrido cambios drásticos que han mermado seriamente el número de especies y, en ocasiones, han provocado la extinción de algunos ejemplares. Lamentablemente, sobrevive en Inglaterra una cantidad reducida de mamíferos de gran tamaño como el oso pardo y el ciervo rojo.</p> <br>
+                    <p>La fauna terrestre más popular de Inglaterra se encuentra presente en los parques, en estos lugares es común observar puercoespines,  topos, cernícalos, tejón, comadreja, carboneros, ardillas, ciervos, tejones, paros, gamos y alionines. Los gamos se localizan especialmente en el distrito de Trafford (al Noroeste de Inglaterra). Los mamíferos que están presentes en la mayoría del territorio inglés son los erizos, musarañas, conejos, comadrejas,  ratones, zorros y ciervos.</p>
+                    <img class="izi im" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RedDeerStag.jpg/1024px-RedDeerStag.jpg" alt="ciervo rojo">
+                    <p class="dep">El ciervo rojo (Cervus elaphus), también llamado ciervo europeo, ciervo común, ciervo colorado o venado, es una especie de cérvido ampliamente distribuida por el hemisferio norte. Se han documentado unas veintisiete subespecies distintas, que se diferencian entre sí por el tamaño, longitud, color del pelo y forma de las cuernas, con un área de distribución que se extiende desde Asia Occidental (en donde la especie tendría su origen) hasta el Magreb, la península ibérica y Gran Bretaña.</p>
+
+                    <img class="dei im" src="https://inaturalist-open-data.s3.amazonaws.com/photos/8853/large.jpg" alt="cernícalo vulgar">
+                    <p class="izp">El cernícalo vulgar (Falco tinnunculus) es una especie de ave falconiforme de la familia Falconidae extendida por África, Asia y Europa, y que se encuentra de manera accidental en América, Caribe e Indonesia.</p>
+
+                    <img class="izi im" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%A1%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%28Parus_major%2C_fem%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg/800px-%D0%A1%D0%B8%D0%BD%D0%B8%D1%86%D0%B0_%28Parus_major%2C_fem%29%2C_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg" alt="Carbonero común">
+                    <p class="dep">El carbonero común (Parus major) es una especie de ave paseriforme de la familia de los páridos (Paridae). Es una especie ampliamente distribuida, siendo muy común en Europa y Asia, en bosques de todo tipo. Es sedentario, y la mayoría de sus individuos no son migradores.</p>
+                </article>
+                <h2>Si quiere saber más, le recomiendo el siguiete video:</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=royMCSSeUL8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+           
+            <aside>
+                <h3>Elija una categoría:</h3> <br>
+                <p>
+                    <br>
+                    <a href="#g">Inglaterra</a>
+                    <br>
+                    <a href="#p">Flora</a>
+                    <br>
+                    <a href="#a">Fauna</a>
+                    
+                </p>
+                    <div>
+                        <iframe width="270" height="360" src="https://www.youtube.com/watch?v=royMCSSeUL8" allow="encrypted-media" allowfullscreen></iframe>
+                        </div>
+                </aside>
+        </section>
+
+            <footer>
+                <a href="#I">Volver al inicio</a>
+            </footer>
+</body>
+</html>

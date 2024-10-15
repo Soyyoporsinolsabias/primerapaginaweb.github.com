@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Pagina no terminada, favor esperar hasta que se termine.</title>
+    <style>
+		img{
+			position: relative;
+			top: 100px;
+			left: 150px;
+		}
+	</style>
+</head>
+<body>
+	<img src="https://t4.ftcdn.net/jpg/02/35/28/61/360_F_235286187_ocJsF1qxWXpHuH6XsoltpB0SJvcMEX6t.webp" alt="" width="1000" >
+</body>
+</html>
